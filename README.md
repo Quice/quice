@@ -1,0 +1,2 @@
+# Quice
+The ✨special✨ repository
