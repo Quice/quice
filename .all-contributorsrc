@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "arthur-fontaine",
+      "name": "Arthur Fontaine",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/57626613?v=4",
+      "profile": "http://arthurfontaine.fr",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Quice",
+  "projectOwner": "Quice",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
