@@ -81,4 +81,6 @@
 - [Conventions for commit messages (Emoji commit messages)](https://gitmoji.dev/)
 - [Conventions for REST API](https://restfulapi.net/resource-naming/)
 
+---
+
 *The above information may not be specific enough to know how to contribute. For more information about the project, you can find a `CONTRIBUTING.md` file in each repository*
