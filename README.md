@@ -21,7 +21,7 @@
 </p>
 
 <h2>
-	Repos
+	Repositories
 </h2>
 
 - `Quice-App`: not yet created
