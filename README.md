@@ -33,7 +33,7 @@
 - `Quice-App`: not yet created
 - `Quice-API`: not yet created
 - `Quice-UIUX`: https://github.com/Quice/Quice-UIUX
-- `Quice-Logo`: not yet created
+- `Quice-Logo`: https://github.com/Quice/Quice-Logo
 
 <h2>
 	Technologies used
