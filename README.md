@@ -1,7 +1,4 @@
 <p align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 	<img alt="Quice" src="./quice.png" height="128">
 </p>
 
@@ -12,6 +9,14 @@
 <p align="center">
 	<b>Quice</b>, the application that tells you what to eat.
 </p>
+
+---
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<p align="center">
+	[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+</p>
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
 
@@ -87,6 +92,8 @@
 ---
 
 *The above information may not be specific enough to know how to contribute. For more information about the project, you can find a `CONTRIBUTING.md` file in each repository*
+
+---
 
 ## Contributors ✨
 
