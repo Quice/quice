@@ -26,7 +26,7 @@
 
 - `Quice-App`: not yet created
 - `Quice-API`: not yet created
-- `Quice-UIUX`: not yet created
+- `Quice-UIUX`: https://github.com/Quice/Quice-UIUX
 - `Quice-Logo`: not yet created
 
 <h2>
