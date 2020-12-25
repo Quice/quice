@@ -1,4 +1,7 @@
 <p align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 	<img alt="Quice" src="./quice.png" height="128">
 </p>
 
@@ -84,3 +87,22 @@
 ---
 
 *The above information may not be specific enough to know how to contribute. For more information about the project, you can find a `CONTRIBUTING.md` file in each repository*
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://arthurfontaine.fr"><img src="https://avatars2.githubusercontent.com/u/57626613?v=4" width="100px;" alt=""/><br /><sub><b>Arthur Fontaine</b></sub></a><br /><a href="https://github.com/Quice/Quice/commits?author=arthur-fontaine" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
