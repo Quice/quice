@@ -69,6 +69,10 @@
 
 	Node-tap's philosophy corresponds to our vision. It is therefore quite natural that we have chosen to use it as a unit testing for Node.js.
 
+- **Python** → https://github.com/python
+
+	Python is one of the best languages to create Artificial Intelligence. There are many library like Scikit-Learn, Keras, Tensorflow and much more... That's why we chose it for this part. We will be able to access the AI created thanks to an API developed with FastAPI.
+
 - **MariaDB** → https://github.com/MariaDB/
 
 	MariaDB is a reference in the RDBMS. It provide the best rapidity for the less of resources. That's why we chose it.
