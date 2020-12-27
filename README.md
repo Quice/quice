@@ -87,6 +87,7 @@
 
 - [Conventions for Kotlin](https://kotlinlang.org/docs/reference/coding-conventions.html)
 - [Conventions for Node.js](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript)
+- [Conventions for Python](https://pep8.org/)
 - [Conventions for MariaDB](https://www.sqlstyle.guide/)
 - [Conventions for commit messages (Emoji commit messages)](https://gitmoji.dev/)
 - [Conventions for REST API](https://restfulapi.net/resource-naming/)
