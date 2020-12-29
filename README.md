@@ -78,19 +78,19 @@
 	MariaDB is a reference in the RDBMS. It provide the best rapidity for the less of resources. That's why we chose it.
 
 <h2>
-	Conventions
+	Guidelines
 </h2>
 
 <p>
-	Here a list of the internal conventions we use:
+	Here a list of the internal guidelines we use:
 <p>
 
-- [Conventions for Kotlin](https://kotlinlang.org/docs/reference/coding-conventions.html)
-- [Conventions for Node.js](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript)
-- [Conventions for Python](https://pep8.org/)
-- [Conventions for MariaDB](https://www.sqlstyle.guide/)
-- [Conventions for commit messages (Emoji commit messages)](https://gitmoji.dev/)
-- [Conventions for REST API](https://restfulapi.net/resource-naming/)
+- [Guidelines for Kotlin](https://developer.android.com/kotlin/style-guide)
+- [Guidelines for Node.js](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript)
+- [Guidelines for Python](https://pep8.org/)
+- [Guidelines for MariaDB](https://www.sqlstyle.guide/)
+- [Guidelines for commit messages (Emoji commit messages)](https://gitmoji.dev/)
+- [Guidelines for REST API](https://restfulapi.net/resource-naming/)
 
 ---
 
