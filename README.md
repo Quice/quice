@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="Quice" src="./quice.png" height="128">
+	<img alt="Quice" src="./quice.png" width="128">
 </p>
 
 <!-- <h1 align="center">
