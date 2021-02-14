@@ -49,48 +49,52 @@
 
 	Moreover, despite its power, the framework is very simple to use and understand, which is very positive for collaboration. -->
 
-- **Kotlin** → https://github.com/JetBrains/kotlin
+Because we want to be a young project, which uses the next-gen technologies, we will use these technologies:
 
-	Kotlin is both the language recommended by Google for mobile development and a language supporting cross-platform, which can allow us to develop a version for iOS faster, while still being efficient. This choice is therefore obvious...
+- For the application, **Flutter** → https://github.com/flutter/flutter
 
-- **Node.js** → https://github.com/nodejs/node
+	Flutter is the future of Mobile App Development. The feature that convinced us the most is the creation of cross-platform applications based on a single code base.
+	
+	You can know more about why we chose Flutter by reading [this article](https://dev.to/joebrain032/13-reasons-why-flutter-is-the-future-of-mobile-app-development-240n).
 
-	Node.js was a very quick choice. It is very powerful and has a lot of modules (libraries) including Express.js. That alone made us choose Node.js for the back-end part.
+- For the machine learning and data science part, **Julia** → https://github.com/JuliaLang/julia
 
-- **TypeScript** → https://github.com/microsoft/TypeScript
+	Julia is a very recent language which is very promising. It is a very fast language, which has a lot of data science and machine learning integrations.
 
-	We have found that a code written in JavaScript in a constantly evolving project is very difficult to maintain in the long term, partly due to the fact that it leaves too much freedom, which can eventually lead to some bugs...
+- For the backend, **Rust** → https://github.com/microsoft/TypeScript
 
-	This is why we chose to write all the back-end code in TypeScript, which allows us to anticipate many errors and thus improve collaboration...
+	Rust is a recent popular language. It is fast, powerful, and has a super community.
 
-	Typescript will be used with Node.js.
+	Thanks to its garbage collector, unit, and integration testing, Rust has less bugs than C or C++.
 
-- **Node-tap** → https://github.com/tapjs/node-tap
+- For the database, **CockroachDB** → https://github.com/python
 
-	Node-tap's philosophy corresponds to our vision. It is therefore quite natural that we have chosen to use it as a unit testing for Node.js.
+	The future of database is the NewSQL databases. It combines the advantages of a NoSQL database, with those of a relationnal databse.
 
-- **Python** → https://github.com/python
-
-	Python is one of the best languages to create Artificial Intelligence. There are many library like Scikit-Learn, Keras, Tensorflow and much more... That's why we chose it for this part. We will be able to access the AI created thanks to an API developed with FastAPI.
-
-- **MariaDB** → https://github.com/MariaDB/
-
-	MariaDB is a reference in the RDBMS. It provide the best rapidity for the less of resources. That's why we chose it.
+	CockroachDB is the most successful DBMS in this field. This is the reason why it was chosen.
 
 <h2>
-	Conventions
+	Best Practices
 </h2>
 
 <p>
-	Here a list of the internal conventions we use:
+	Here a list of the internal Best Practices we use:
 <p>
 
-- [Conventions for Kotlin](https://kotlinlang.org/docs/reference/coding-conventions.html)
-- [Conventions for Node.js](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript)
-- [Conventions for Python](https://pep8.org/)
-- [Conventions for MariaDB](https://www.sqlstyle.guide/)
-- [Conventions for commit messages (Emoji commit messages)](https://gitmoji.dev/)
-- [Conventions for REST API](https://restfulapi.net/resource-naming/)
+- [Best Practices for Flutter](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
+- [Best Practices for Julia](https://docs.julialang.org/en/v1/manual/style-guide/)
+- [Best Practices for Rust](https://github.com/mre/idiomatic-rust)
+- [Best Practices for CockroachDB](https://www.cockroachlabs.com/docs/stable/performance-best-practices-overview.html)
+- [Best Practices for commit messages (Emoji commit messages)](https://gitmoji.dev/)
+- [Best Practices for REST API](https://restfulapi.net/resource-naming/)
+
+<h2>
+	Formatting
+</h2>
+
+To keep the project clean and readable, each file should be commited following the formatting of the [.prettierrc file](./.prettierrc). Of course, you are free to format the code as you want when you are editing it.
+
+The [.prettierrc file](./.prettierrc) will be in all repository.
 
 ---
 
