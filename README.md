@@ -57,21 +57,19 @@ Because we want to be a young project, which uses the next-gen technologies, we 
 	
 	You can know more about why we chose Flutter by reading [this article](https://dev.to/joebrain032/13-reasons-why-flutter-is-the-future-of-mobile-app-development-240n).
 
+- For the backend, **Go** → https://github.com/golang/go
+
+	Go is a recent popular language. It is fast, powerful, and has a super community.
+
+	Go is a super language for the backend. It is one of the simplest languages, it compiles lightning-quick into fast native code and has excellent support for concurrency with goroutines and channels.
+
 - For the machine learning and data science part, **Julia** → https://github.com/JuliaLang/julia
 
 	Julia is a very recent language which is very promising. It is a very fast language, which has a lot of data science and machine learning integrations.
 
-- For the backend, **Rust** → https://github.com/microsoft/TypeScript
+- For the database, **MariaDB** → https://github.com/MariaDB/
 
-	Rust is a recent popular language. It is fast, powerful, and has a super community.
-
-	Thanks to its garbage collector, unit, and integration testing, Rust has less bugs than C or C++.
-
-- For the database, **CockroachDB** → https://github.com/python
-
-	The future of database is the NewSQL databases. It combines the advantages of a NoSQL database, with those of a relationnal databse.
-
-	CockroachDB is the most successful DBMS in this field. This is the reason why it was chosen.
+	MariaDB is a reference in the RDBMS. It provides the best rapidity for the less of resources. That's why we chose it.
 
 <h2>
 	Best Practices
@@ -82,9 +80,10 @@ Because we want to be a young project, which uses the next-gen technologies, we 
 <p>
 
 - [Best Practices for Flutter](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
+- [Best Practices for Dart](https://dart.dev/guides/language/effective-dart)
+- [Best Practices for Go](https://golang.org/doc/effective_go)
 - [Best Practices for Julia](https://docs.julialang.org/en/v1/manual/style-guide/)
-- [Best Practices for Rust](https://github.com/mre/idiomatic-rust)
-- [Best Practices for CockroachDB](https://www.cockroachlabs.com/docs/stable/performance-best-practices-overview.html)
+- [Best Practices for MariaDB](https://www.sqlstyle.guide/)
 - [Best Practices for commit messages (Emoji commit messages)](https://gitmoji.dev/)
 - [Best Practices for REST API](https://restfulapi.net/resource-naming/)
 
